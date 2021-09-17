@@ -1,0 +1,21 @@
+{
+"URL_YOUTUBE_CHANNEL" :  "https://www.youtube.com/channel/UCDHWIvFqD6ab2fKdQgTOdjA/live",
+"onetime_announcement" : "Due to COVID-19 conditions, Temple is open to public for darshan on everyday between 8:30AM to 10:30AM and between 6:30 PM and 8:30 PM only. Kindly review TEMPLE's COVID guidelines(OPEN) before visit.",
+
+
+"songs": [
+    {
+    "name": "Deeparadhana",
+    "url": "https://drive.google.com/file/d/1WTAHz0Th4OutiHdxHwb2-1-_yN0A1TuW/view?usp=sharing"
+},
+ {
+    "name": "Sri Krishna Ashtotharam",
+    "url": "https://drive.google.com/file/d/1Jes0a4KYjRmIAKwski0qKubjwhMeJAy0/view?usp=sharing"
+},
+ {
+    "name": "Vishnu Sahasranamasthothram",
+    "url": "https://drive.google.com/file/d/1WTAHz0Th4OutiHdxHwb2-1-_yN0A1TuW/view?usp=sharing"
+}
+    
+    ]
+}
